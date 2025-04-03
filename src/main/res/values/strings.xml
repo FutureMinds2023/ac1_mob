@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Livros</string>
+    <string name="title_hint">Percy Jackson</string>
+    <string name="author_hint">Rick Riordan</string>
+    <string name="read_status">Leitura concluída?</string>
+    <string name="add_book">Adicionar Livro</string>
+    <string name="remove_book">Remover Livro</string>
+    <string name="save_book">Salvar Livro</string>
+    <string name="book_deleted">Livro excluído</string>
+</resources>
